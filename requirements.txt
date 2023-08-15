@@ -1,4 +1,4 @@
-Django==1.5.1
+Django==2.2.28
 argparse==1.2.1
 gunicorn==0.17.4
 ipython==0.13.2
